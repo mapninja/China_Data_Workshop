@@ -1,4 +1,4 @@
-theProvincethe# Intro to QGIS
+# Intro to QGIS
 # Overview  
 
 This workshop will introduce participants to QGIS, a free and open source desktop GIS application, comparable and competitive in many way with Esri's ArcGIS Desktop. We will focus on a very basic introduction to the QGIS interface, and common data carpentry tasks that will come in handy as you prepare and create vector data, in particular, for use in Google Earth Engine.
