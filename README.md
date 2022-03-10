@@ -11,7 +11,7 @@ Install QGIS PR from https://QGIS.org
 - Raster Data – Pixels, Bands, and Collections
 - Spatial Relationships – Overlay & Proximity Analysis
 
-## Hour 2 – Introduction to QGIS (Hands on)
+## Hour 2 – [Introduction to QGIS (Hands on)](https://github.com/mapninja/China_Data_Workshop/blob/main/QGIS_Intro.md)
 - Interface Intro
 - Adding Data (Vector, tabular, raster)
 - Projecting Data
@@ -20,16 +20,18 @@ Install QGIS PR from https://QGIS.org
 - Working with tables
 - Export (if time)
 
-## Hour 3 – Introduction to Google Earth Engine (Hands on)
+## Hour 3 – [Introduction to Google Earth Engine (Hands on)](https://code.earthengine.google.com/?accept_repo=users/stacemaples/ChinaData)
 - Interface Intro
 - Filtering Imagery
 - Working with bands
 - Reducing imagery (Zonal Statistics)
 - Working across time
 - Supervised Classification
-- Export (If time)
+- Export (If time)  
 
-Wrap up & where to find out more…
+[My Original GEE 101 Workshop](https://arcg.is/0DmS590)
+
+Wrap up & where to [find out more](https://stanford.maps.arcgis.com/home/index.html)…
 
 ## Datasets
 
