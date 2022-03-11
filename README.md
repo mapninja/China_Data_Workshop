@@ -5,7 +5,10 @@ Working with Spatial Data, with a focus upon China Data Collections
 ## Prerequisites:
 Install QGIS PR from https://QGIS.org
 
-## Hour 1 – Introduction to Spatial Data (Lecture)
+## Hour 1 – [Introduction to Spatial Data (Lecture)](https://slides.com/d/8UWonNw/live)
+
+([non-live version of slides for your later referral](https://slides.com/staceymaples/spatial101))
+
 - Lining it up – Datums, Ellipsoids, Geographic & Projected Coordinate Systems
 - Vector Data – Points, Lines, Polygons and Attributes
 - Raster Data – Pixels, Bands, and Collections

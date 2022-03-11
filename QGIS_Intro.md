@@ -14,6 +14,11 @@ Prior to beginning this exercise, download the datasets, using the **Orginal Sha
 - [Province Boundaries with 2010 Population Census Data: China (100% Short Form data)](https://earthworks.stanford.edu/catalog/stanford-mg792ym3402)  
 - [2010 China Township Census](https://earthworks.stanford.edu/catalog/stanford-rq443fp2092)
 
+If you are not a Stanford affiliate, you will not be able to download these datasets, as they are licensed only for use by Stanford Scholars. In that case, the following datasets have been made available ([In the /Data/ folder of this repo](https://github.com/mapninja/China_Data_Workshop/tree/main/data)), or you may download them from the Humanitarian Data Exchange, using the linked text:
+
+* [HOTOSM China South1 Populated Places (OpenStreetMap Export)](https://data.humdata.org/dataset/hotosm_chn_south1_populated_places)
+* [China - Subnational Administrative Boundaries](https://github.com/wmgeolab/geoBoundaries/raw/1d9337efa9ead34ce2d1bb7acf867bfbe48f7c4a/releaseData/gbOpen/CHN/ADM1/geoBoundaries-CHN-ADM1-all.zip)
+
 ## Software
 
 This workshop was created using QGIS version 3.4, which is the long-term release. If you are in new user we suggest installing the latest long-term release for your operating system. While the latest beta release contains extra features and functionality, it often and also contains bugs and limited functionality, which can be frustrating to new users.
