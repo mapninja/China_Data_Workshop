@@ -11,8 +11,10 @@ Users should prepare for this workshop by installing the QGIS software appropria
 
 Prior to beginning this exercise, download the datasets, using the **Orginal Shapefile** button. Then, Extract the datasets from the downloaded Zip files, into a single directory (mine will be called /data/).
 
-- [Province Boundaries with 2010 Population Census Data: China (100% Short Form data)](https://earthworks.stanford.edu/catalog/stanford-mg792ym3402)  
+- [Province Boundaries with 2010 Population Census Data: China (100% Short Form data)](https://earthworks.stanford.edu/catalog/stanford-mg792ym3402)
+  - [Province Data Dictionary](https://mapninja.github.io/China_Data_Workshop/Prov_variables.html)
 - [2010 China Township Census](https://earthworks.stanford.edu/catalog/stanford-rq443fp2092)
+  - [Township Data Dictionary](https://mapninja.github.io/China_Data_Workshop/Township_Variables.html)
 
 If you are not a Stanford affiliate, you will not be able to download these datasets, as they are licensed only for use by Stanford Scholars. In that case, the following datasets have been made available ([In the /Data/ folder of this repo](https://github.com/mapninja/China_Data_Workshop/tree/main/data)), or you may download them from the Humanitarian Data Exchange, using the linked text:
 
@@ -33,7 +35,7 @@ In this section we will cover starting a new QGIS project. We will create a new 
 
 ### Create a Map Document
 
-1. To create a new map document, simply open QGIS and save the resulting empty document to the top level of your project folder, naming your new document something meaningful like "SnowMap.qgz" or "Cholera_Map.qgz"
+1. To create a new map document, simply open QGIS and save the resulting empty document to the top level of your project folder, naming your new document something meaningful like `China.qgz` or `Data_Intro.qg`z
 
 *Notice that when you save your map document a new folder in your data browser panel appears. This folder is called Project Home and is a shortcut to the folder containing your map document. It's always a good idea to save your map document to a high-level folder above your data and other project directories.*
 
@@ -93,7 +95,7 @@ The first thing we would like to do is add a base map layer to our map project. 
 5. Now return to the quick map services menu, and select the **Google>Hybrid** base map.
 6. **Save** your **map document**.
 
-![](./media/stamenbasemap.png)
+![](images/QGIS_Intro-dc9b12c3.png)
 
 ## Adding Data (Vector, tabular, raster)
 

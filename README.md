@@ -40,3 +40,8 @@ Wrap up & where to [find out more](https://stanford.maps.arcgis.com/home/index.h
 
 - [Province Boundaries with 2010 Population Census Data: China (100% Short Form data)](https://earthworks.stanford.edu/catalog/stanford-mg792ym3402)  
 - [2010 China Township Census](https://earthworks.stanford.edu/catalog/stanford-rq443fp2092)
+
+If you are not a Stanford affiliate, you will not be able to download these datasets, as they are licensed only for use by Stanford Scholars. In that case, the following datasets have been made available ([In the /Data/ folder of this repo](https://github.com/mapninja/China_Data_Workshop/tree/main/data)), or you may download them from the Humanitarian Data Exchange, using the linked text:
+
+* [HOTOSM China South1 Populated Places (OpenStreetMap Export)](https://data.humdata.org/dataset/hotosm_chn_south1_populated_places)
+* [China - Subnational Administrative Boundaries](https://github.com/wmgeolab/geoBoundaries/raw/1d9337efa9ead34ce2d1bb7acf867bfbe48f7c4a/releaseData/gbOpen/CHN/ADM1/geoBoundaries-CHN-ADM1-all.zip)
