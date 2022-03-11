@@ -23,6 +23,10 @@ Install QGIS PR from https://QGIS.org
 - Working with tables
 - Export (if time)
 
+[My full self-paced QGIS 101 Workshop](https://arcg.is/0z9y8b)
+
+[Ujaval Gandhi's amazing QGIS Tutorials and Tips Repo](https://www.qgistutorials.com/en/)
+
 ## Hour 3 – [Introduction to Google Earth Engine (Hands on)](https://code.earthengine.google.com/?accept_repo=users/stacemaples/ChinaData)
 - Interface Intro
 - Filtering Imagery
