@@ -1,5 +1,5 @@
 # China Data Workshop
-##Working with Spatial Data, with a focus upon China Data Collections
+## Working with Spatial Data, with a focus upon China Data Collections
 
 this readme, as a website: [https://mapninja.github.io/China_Data_Workshop/ ](https://mapninja.github.io/China_Data_Workshop/)  
 
